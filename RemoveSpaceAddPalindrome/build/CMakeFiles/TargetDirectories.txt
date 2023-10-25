@@ -1,0 +1,3 @@
+/Users/chengchienting/GitHub/RemoveSpaceAddPalindrome/build/CMakeFiles/RemoveSpaceAddPalinrome.out.dir
+/Users/chengchienting/GitHub/RemoveSpaceAddPalindrome/build/CMakeFiles/edit_cache.dir
+/Users/chengchienting/GitHub/RemoveSpaceAddPalindrome/build/CMakeFiles/rebuild_cache.dir

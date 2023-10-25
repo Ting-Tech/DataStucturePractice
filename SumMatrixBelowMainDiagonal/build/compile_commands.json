@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/chengchienting/GitHub/SumMatrixBelowMainDiagonal/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/SumMatrixBelowMainDiagonal.out.dir/src/main.cc.o -c /Users/chengchienting/GitHub/SumMatrixBelowMainDiagonal/src/main.cc",
+  "file": "/Users/chengchienting/GitHub/SumMatrixBelowMainDiagonal/src/main.cc",
+  "output": "CMakeFiles/SumMatrixBelowMainDiagonal.out.dir/src/main.cc.o"
+}
+]

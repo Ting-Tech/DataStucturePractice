@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/chengchienting/GitHub/RemoveSpaceAddPalindrome/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/RemoveSpaceAddPalinrome.out.dir/src/main.cc.o -c /Users/chengchienting/GitHub/RemoveSpaceAddPalindrome/src/main.cc",
+  "file": "/Users/chengchienting/GitHub/RemoveSpaceAddPalindrome/src/main.cc",
+  "output": "CMakeFiles/RemoveSpaceAddPalinrome.out.dir/src/main.cc.o"
+}
+]

@@ -1,0 +1,3 @@
+/Users/chengchienting/GitHub/DeleteDuplicate/build/CMakeFiles/DeleteDuplicate.out.dir
+/Users/chengchienting/GitHub/DeleteDuplicate/build/CMakeFiles/edit_cache.dir
+/Users/chengchienting/GitHub/DeleteDuplicate/build/CMakeFiles/rebuild_cache.dir
