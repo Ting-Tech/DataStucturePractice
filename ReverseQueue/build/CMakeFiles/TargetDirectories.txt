@@ -1,0 +1,3 @@
+C:/Users/allen/Github/DataStucturePractice/ReverseQueue/build/CMakeFiles/ReverseQueue.out.dir
+C:/Users/allen/Github/DataStucturePractice/ReverseQueue/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/allen/Github/DataStucturePractice/ReverseQueue/build/CMakeFiles/ZERO_CHECK.dir
